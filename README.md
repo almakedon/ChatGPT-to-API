@@ -47,12 +47,9 @@ echo "$START$TOKENS$END" > access_tokens.json
 ## Getting set up
  get go and install from https://go.dev/
   
-1.cmd `git clone https://github.com/acheong08/ChatGPT-to-API`
-  
+1. cmd `git clone https://github.com/acheong08/ChatGPT-to-API`
 2. `cd ChatGPT-to-API`
-  
 3. `go build`
-  
 4. `./freechatgpt`
 
 
