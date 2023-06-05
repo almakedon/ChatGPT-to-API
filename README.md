@@ -45,13 +45,14 @@ echo "$START$TOKENS$END" > access_tokens.json
 </details>
 
 ## Getting set up
+ get go and install from https://go.dev/
   
-`git clone https://github.com/acheong08/ChatGPT-to-API`
-`cd ChatGPT-to-API`
-`go build`
-`./freechatgpt`
+1.cmd `git clone https://github.com/acheong08/ChatGPT-to-API`
+2. `cd ChatGPT-to-API`
+3. `go build`
+4. `./freechatgpt`
 
-get go from https://go.dev/
+
 
 ### Environment variables
   - `PUID` - A cookie found on chat.openai.com for Plus users. This gets around Cloudflare rate limits
