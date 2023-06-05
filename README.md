@@ -51,6 +51,8 @@ echo "$START$TOKENS$END" > access_tokens.json
 `go build`
 `./freechatgpt`
 
+get go from https://go.dev/
+
 ### Environment variables
   - `PUID` - A cookie found on chat.openai.com for Plus users. This gets around Cloudflare rate limits
   - `http_proxy` - SOCKS5 or HTTP proxy. `socks5://HOST:PORT`
