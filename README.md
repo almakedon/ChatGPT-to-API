@@ -50,7 +50,7 @@ echo "$START$TOKENS$END" > access_tokens.json
 1. cmd `git clone https://github.com/acheong08/ChatGPT-to-API`
 2. `cd ChatGPT-to-API`
 3. `go build`
-4. `./freechatgpt`
+4. after bild is finished run freechatgpt.exe (windows) or for others `./freechatgpt`
 
 
 
